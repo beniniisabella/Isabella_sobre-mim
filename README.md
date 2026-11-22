@@ -52,6 +52,10 @@ git clone https://github.com/beniniisabella/Isabella_sobre-mim.git
 2. Abra a pasta no Visual Studio Code.
 3. Execute o arquivo `index.html` no navegador ou utilize a extensão Live Server.
 
+## Acesse o site
+
+[Visualizar página Sobre Mim](https://beniniisabella.github.io/Isabella_sobre-mim/)
+
 ## Autora
 
 **Isabella Benini Lins**
