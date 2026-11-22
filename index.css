@@ -103,3 +103,24 @@ a:focus-visible {
     outline: 2px solid #663399;
     outline-offset: 4px;
 }
+
+footer {
+    text-align: center;
+    padding: 20px 0 40px;
+}
+
+.voltar-topo {
+    display: inline-block;
+    background-color: white;
+    color: #663399;
+    padding: 12px 28px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.voltar-topo:hover {
+    background-color: #eee0ff;
+    color: #3f1b65;
+}
